@@ -1,0 +1,11 @@
+F:\C#\NewEight\bin\Debug\NewEight.exe.config
+F:\C#\NewEight\bin\Debug\NewEight.exe
+F:\C#\NewEight\bin\Debug\NewEight.pdb
+F:\C#\NewEight\obj\Debug\NewEight.csproj.AssemblyReference.cache
+F:\C#\NewEight\obj\Debug\NewEight.Form1.resources
+F:\C#\NewEight\obj\Debug\NewEight.Properties.Resources.resources
+F:\C#\NewEight\obj\Debug\NewEight.csproj.GenerateResource.cache
+F:\C#\NewEight\obj\Debug\NewEight.csproj.CoreCompileInputs.cache
+F:\C#\NewEight\obj\Debug\NewEight.exe
+F:\C#\NewEight\obj\Debug\NewEight.pdb
+F:\C#\NewEight\obj\Debug\NewEight.Form2.resources

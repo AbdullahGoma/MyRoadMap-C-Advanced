@@ -1,0 +1,15 @@
+F:\C#\NewTwelveth\UI\bin\Debug\UI.exe.config
+F:\C#\NewTwelveth\UI\bin\Debug\UI.exe
+F:\C#\NewTwelveth\UI\bin\Debug\UI.pdb
+F:\C#\NewTwelveth\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+F:\C#\NewTwelveth\UI\obj\Debug\UI.Form1.resources
+F:\C#\NewTwelveth\UI\obj\Debug\UI.Properties.Resources.resources
+F:\C#\NewTwelveth\UI\obj\Debug\UI.csproj.GenerateResource.cache
+F:\C#\NewTwelveth\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+F:\C#\NewTwelveth\UI\obj\Debug\UI.exe
+F:\C#\NewTwelveth\UI\obj\Debug\UI.pdb
+F:\C#\NewTwelveth\UI\bin\Debug\Data.dll
+F:\C#\NewTwelveth\UI\bin\Debug\Data.pdb
+F:\C#\NewTwelveth\UI\obj\Debug\UI.csproj.CopyComplete
+F:\C#\NewTwelveth\UI\bin\Debug\Business.dll
+F:\C#\NewTwelveth\UI\bin\Debug\Business.pdb

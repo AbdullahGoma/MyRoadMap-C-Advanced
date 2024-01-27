@@ -1,0 +1,6 @@
+F:\C#\NewTwelveth\Data\bin\Debug\Data.dll
+F:\C#\NewTwelveth\Data\bin\Debug\Data.pdb
+F:\C#\NewTwelveth\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+F:\C#\NewTwelveth\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+F:\C#\NewTwelveth\Data\obj\Debug\Data.dll
+F:\C#\NewTwelveth\Data\obj\Debug\Data.pdb

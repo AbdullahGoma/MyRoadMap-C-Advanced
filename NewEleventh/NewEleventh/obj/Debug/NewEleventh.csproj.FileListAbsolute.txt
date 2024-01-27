@@ -1,0 +1,10 @@
+F:\C#\NewEleventh\NewEleventh\bin\Debug\NewEleventh.exe.config
+F:\C#\NewEleventh\NewEleventh\bin\Debug\NewEleventh.exe
+F:\C#\NewEleventh\NewEleventh\bin\Debug\NewEleventh.pdb
+F:\C#\NewEleventh\NewEleventh\obj\Debug\NewEleventh.csproj.AssemblyReference.cache
+F:\C#\NewEleventh\NewEleventh\obj\Debug\NewEleventh.Form1.resources
+F:\C#\NewEleventh\NewEleventh\obj\Debug\NewEleventh.Properties.Resources.resources
+F:\C#\NewEleventh\NewEleventh\obj\Debug\NewEleventh.csproj.GenerateResource.cache
+F:\C#\NewEleventh\NewEleventh\obj\Debug\NewEleventh.csproj.CoreCompileInputs.cache
+F:\C#\NewEleventh\NewEleventh\obj\Debug\NewEleventh.exe
+F:\C#\NewEleventh\NewEleventh\obj\Debug\NewEleventh.pdb

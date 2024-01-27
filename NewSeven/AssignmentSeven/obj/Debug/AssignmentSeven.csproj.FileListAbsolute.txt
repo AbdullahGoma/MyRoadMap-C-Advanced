@@ -1,0 +1,10 @@
+F:\C#\NewSeven\AssignmentSeven\bin\Debug\AssignmentSeven.exe.config
+F:\C#\NewSeven\AssignmentSeven\bin\Debug\AssignmentSeven.exe
+F:\C#\NewSeven\AssignmentSeven\bin\Debug\AssignmentSeven.pdb
+F:\C#\NewSeven\AssignmentSeven\obj\Debug\AssignmentSeven.csproj.AssemblyReference.cache
+F:\C#\NewSeven\AssignmentSeven\obj\Debug\AssignmentSeven.Converter.resources
+F:\C#\NewSeven\AssignmentSeven\obj\Debug\AssignmentSeven.Properties.Resources.resources
+F:\C#\NewSeven\AssignmentSeven\obj\Debug\AssignmentSeven.csproj.GenerateResource.cache
+F:\C#\NewSeven\AssignmentSeven\obj\Debug\AssignmentSeven.csproj.CoreCompileInputs.cache
+F:\C#\NewSeven\AssignmentSeven\obj\Debug\AssignmentSeven.exe
+F:\C#\NewSeven\AssignmentSeven\obj\Debug\AssignmentSeven.pdb

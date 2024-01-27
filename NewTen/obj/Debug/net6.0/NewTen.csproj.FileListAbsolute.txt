@@ -1,0 +1,14 @@
+F:\C#\NewTen\bin\Debug\net6.0\NewTen.exe
+F:\C#\NewTen\bin\Debug\net6.0\NewTen.deps.json
+F:\C#\NewTen\bin\Debug\net6.0\NewTen.runtimeconfig.json
+F:\C#\NewTen\bin\Debug\net6.0\NewTen.dll
+F:\C#\NewTen\bin\Debug\net6.0\NewTen.pdb
+F:\C#\NewTen\obj\Debug\net6.0\NewTen.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\NewTen\obj\Debug\net6.0\NewTen.AssemblyInfoInputs.cache
+F:\C#\NewTen\obj\Debug\net6.0\NewTen.AssemblyInfo.cs
+F:\C#\NewTen\obj\Debug\net6.0\NewTen.csproj.CoreCompileInputs.cache
+F:\C#\NewTen\obj\Debug\net6.0\NewTen.dll
+F:\C#\NewTen\obj\Debug\net6.0\refint\NewTen.dll
+F:\C#\NewTen\obj\Debug\net6.0\NewTen.pdb
+F:\C#\NewTen\obj\Debug\net6.0\NewTen.genruntimeconfig.cache
+F:\C#\NewTen\obj\Debug\net6.0\ref\NewTen.dll

@@ -1,0 +1,14 @@
+F:\C#\NewForth\bin\Debug\net6.0\NewForth.exe
+F:\C#\NewForth\bin\Debug\net6.0\NewForth.deps.json
+F:\C#\NewForth\bin\Debug\net6.0\NewForth.runtimeconfig.json
+F:\C#\NewForth\bin\Debug\net6.0\NewForth.dll
+F:\C#\NewForth\bin\Debug\net6.0\NewForth.pdb
+F:\C#\NewForth\obj\Debug\net6.0\NewForth.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\NewForth\obj\Debug\net6.0\NewForth.AssemblyInfoInputs.cache
+F:\C#\NewForth\obj\Debug\net6.0\NewForth.AssemblyInfo.cs
+F:\C#\NewForth\obj\Debug\net6.0\NewForth.csproj.CoreCompileInputs.cache
+F:\C#\NewForth\obj\Debug\net6.0\NewForth.dll
+F:\C#\NewForth\obj\Debug\net6.0\refint\NewForth.dll
+F:\C#\NewForth\obj\Debug\net6.0\NewForth.pdb
+F:\C#\NewForth\obj\Debug\net6.0\NewForth.genruntimeconfig.cache
+F:\C#\NewForth\obj\Debug\net6.0\ref\NewForth.dll

@@ -1,0 +1,15 @@
+F:\C#\NewNine\bin\Debug\NewNine.exe.config
+F:\C#\NewNine\bin\Debug\NewNine.exe
+F:\C#\NewNine\bin\Debug\NewNine.pdb
+F:\C#\NewNine\obj\Debug\NewNine.csproj.AssemblyReference.cache
+F:\C#\NewNine\obj\Debug\NewNine.Form1.resources
+F:\C#\NewNine\obj\Debug\NewNine.Properties.Resources.resources
+F:\C#\NewNine\obj\Debug\NewNine.csproj.GenerateResource.cache
+F:\C#\NewNine\obj\Debug\NewNine.csproj.CoreCompileInputs.cache
+F:\C#\NewNine\obj\Debug\NewNine.exe
+F:\C#\NewNine\obj\Debug\NewNine.pdb
+F:\C#\NewNine\obj\Debug\NewNine.FormMsg.resources
+F:\C#\NewNine\obj\Debug\NewNine.Form2.resources
+F:\C#\NewNine\obj\Debug\NewNine.ColorMixer.resources
+F:\C#\NewNine\obj\Debug\NewNine.DigitalClock.resources
+F:\C#\NewNine\obj\Debug\NewNine.Form3.resources

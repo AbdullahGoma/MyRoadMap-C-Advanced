@@ -1,0 +1,14 @@
+F:\C#\NewThird\obj\Debug\net6.0\NewThird.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\NewThird\obj\Debug\net6.0\NewThird.AssemblyInfoInputs.cache
+F:\C#\NewThird\obj\Debug\net6.0\NewThird.AssemblyInfo.cs
+F:\C#\NewThird\obj\Debug\net6.0\NewThird.csproj.CoreCompileInputs.cache
+F:\C#\NewThird\bin\Debug\net6.0\NewThird.exe
+F:\C#\NewThird\bin\Debug\net6.0\NewThird.deps.json
+F:\C#\NewThird\bin\Debug\net6.0\NewThird.runtimeconfig.json
+F:\C#\NewThird\bin\Debug\net6.0\NewThird.dll
+F:\C#\NewThird\bin\Debug\net6.0\NewThird.pdb
+F:\C#\NewThird\obj\Debug\net6.0\NewThird.dll
+F:\C#\NewThird\obj\Debug\net6.0\refint\NewThird.dll
+F:\C#\NewThird\obj\Debug\net6.0\NewThird.pdb
+F:\C#\NewThird\obj\Debug\net6.0\NewThird.genruntimeconfig.cache
+F:\C#\NewThird\obj\Debug\net6.0\ref\NewThird.dll

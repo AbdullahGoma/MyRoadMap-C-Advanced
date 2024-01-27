@@ -1,0 +1,9 @@
+F:\C#\NewTwelveth\Business\bin\Debug\Business.dll
+F:\C#\NewTwelveth\Business\bin\Debug\Business.pdb
+F:\C#\NewTwelveth\Business\bin\Debug\Data.dll
+F:\C#\NewTwelveth\Business\bin\Debug\Data.pdb
+F:\C#\NewTwelveth\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+F:\C#\NewTwelveth\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+F:\C#\NewTwelveth\Business\obj\Debug\Business.csproj.CopyComplete
+F:\C#\NewTwelveth\Business\obj\Debug\Business.dll
+F:\C#\NewTwelveth\Business\obj\Debug\Business.pdb

@@ -1,0 +1,14 @@
+F:\C#\NewSix\bin\Debug\net6.0\NewSix.exe
+F:\C#\NewSix\bin\Debug\net6.0\NewSix.deps.json
+F:\C#\NewSix\bin\Debug\net6.0\NewSix.runtimeconfig.json
+F:\C#\NewSix\bin\Debug\net6.0\NewSix.dll
+F:\C#\NewSix\bin\Debug\net6.0\NewSix.pdb
+F:\C#\NewSix\obj\Debug\net6.0\NewSix.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\NewSix\obj\Debug\net6.0\NewSix.AssemblyInfoInputs.cache
+F:\C#\NewSix\obj\Debug\net6.0\NewSix.AssemblyInfo.cs
+F:\C#\NewSix\obj\Debug\net6.0\NewSix.csproj.CoreCompileInputs.cache
+F:\C#\NewSix\obj\Debug\net6.0\NewSix.dll
+F:\C#\NewSix\obj\Debug\net6.0\refint\NewSix.dll
+F:\C#\NewSix\obj\Debug\net6.0\NewSix.pdb
+F:\C#\NewSix\obj\Debug\net6.0\NewSix.genruntimeconfig.cache
+F:\C#\NewSix\obj\Debug\net6.0\ref\NewSix.dll

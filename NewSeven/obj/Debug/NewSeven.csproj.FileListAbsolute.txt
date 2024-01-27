@@ -1,0 +1,10 @@
+F:\C#\NewSeven\bin\Debug\NewSeven.exe.config
+F:\C#\NewSeven\bin\Debug\NewSeven.exe
+F:\C#\NewSeven\bin\Debug\NewSeven.pdb
+F:\C#\NewSeven\obj\Debug\NewSeven.csproj.AssemblyReference.cache
+F:\C#\NewSeven\obj\Debug\NewSeven.Properties.Resources.resources
+F:\C#\NewSeven\obj\Debug\NewSeven.csproj.GenerateResource.cache
+F:\C#\NewSeven\obj\Debug\NewSeven.csproj.CoreCompileInputs.cache
+F:\C#\NewSeven\obj\Debug\NewSeven.exe
+F:\C#\NewSeven\obj\Debug\NewSeven.pdb
+F:\C#\NewSeven\obj\Debug\NewSeven.Form1.resources

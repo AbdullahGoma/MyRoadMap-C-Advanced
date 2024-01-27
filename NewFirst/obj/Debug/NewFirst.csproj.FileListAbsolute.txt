@@ -1,0 +1,7 @@
+F:\C#\NewFirst\bin\Debug\NewFirst.exe.config
+F:\C#\NewFirst\bin\Debug\NewFirst.exe
+F:\C#\NewFirst\bin\Debug\NewFirst.pdb
+F:\C#\NewFirst\obj\Debug\NewFirst.csproj.AssemblyReference.cache
+F:\C#\NewFirst\obj\Debug\NewFirst.csproj.CoreCompileInputs.cache
+F:\C#\NewFirst\obj\Debug\NewFirst.exe
+F:\C#\NewFirst\obj\Debug\NewFirst.pdb

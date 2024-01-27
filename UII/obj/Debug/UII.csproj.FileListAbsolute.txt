@@ -1,0 +1,15 @@
+F:\C#\UII\bin\Debug\UII.exe.config
+F:\C#\UII\bin\Debug\UII.exe
+F:\C#\UII\bin\Debug\UII.pdb
+F:\C#\UII\bin\Debug\Business.dll
+F:\C#\UII\bin\Debug\Data.dll
+F:\C#\UII\bin\Debug\Business.pdb
+F:\C#\UII\bin\Debug\Data.pdb
+F:\C#\UII\obj\Debug\UII.csproj.AssemblyReference.cache
+F:\C#\UII\obj\Debug\UII.Form1.resources
+F:\C#\UII\obj\Debug\UII.Properties.Resources.resources
+F:\C#\UII\obj\Debug\UII.csproj.GenerateResource.cache
+F:\C#\UII\obj\Debug\UII.csproj.CoreCompileInputs.cache
+F:\C#\UII\obj\Debug\UII.csproj.CopyComplete
+F:\C#\UII\obj\Debug\UII.exe
+F:\C#\UII\obj\Debug\UII.pdb

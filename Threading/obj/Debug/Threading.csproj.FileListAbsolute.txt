@@ -1,0 +1,10 @@
+F:\C#\Threading\bin\Debug\Threading.exe.config
+F:\C#\Threading\bin\Debug\Threading.exe
+F:\C#\Threading\bin\Debug\Threading.pdb
+F:\C#\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+F:\C#\Threading\obj\Debug\Threading.Form1.resources
+F:\C#\Threading\obj\Debug\Threading.Properties.Resources.resources
+F:\C#\Threading\obj\Debug\Threading.csproj.GenerateResource.cache
+F:\C#\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+F:\C#\Threading\obj\Debug\Threading.exe
+F:\C#\Threading\obj\Debug\Threading.pdb

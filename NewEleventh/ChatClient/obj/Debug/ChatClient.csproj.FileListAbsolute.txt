@@ -1,0 +1,10 @@
+F:\C#\NewEleventh\ChatClient\bin\Debug\ChatClient.exe.config
+F:\C#\NewEleventh\ChatClient\bin\Debug\ChatClient.exe
+F:\C#\NewEleventh\ChatClient\bin\Debug\ChatClient.pdb
+F:\C#\NewEleventh\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+F:\C#\NewEleventh\ChatClient\obj\Debug\ChatClient.Form1.resources
+F:\C#\NewEleventh\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+F:\C#\NewEleventh\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+F:\C#\NewEleventh\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+F:\C#\NewEleventh\ChatClient\obj\Debug\ChatClient.exe
+F:\C#\NewEleventh\ChatClient\obj\Debug\ChatClient.pdb
